@@ -51,7 +51,8 @@ class TradeLink(models.Model):
     product = models.ForeignKey(Products, on_delete=models.CASCADE, verbose_name='продукт', **NULLABLE)
     supplier = models.ForeignKey('TradeLink', on_delete=models.SET_NULL, verbose_name='поставщик', **NULLABLE)
     contact = models.ForeignKey(Contacts, on_delete=models.DO_NOTHING, verbose_name='контакты', **NULLABLE)
-    dept = models.DecimalField(max_digits=9, decimal_places=2, verbose_name='задолженность перед поставщиком', **NULLABLE)
+    dept = models.DecimalField(default=0, max_digits=9, decimal_places=2,
+                               verbose_name='задолженность перед поставщиком', **NULLABLE)
     time = models.DateTimeField(auto_now_add=True, verbose_name='дата и время создания', **NULLABLE)
 
     def __str__(self):

@@ -1,9 +1,9 @@
 from django.urls import path
 from .apps import ShopConfig
-from .views import ProductsCreateAPIView, ProductsListAPIView, ProductsRetrieveAPIView, ProductsUpdateAPIView, \
-    ProductsDestroyAPIView, ContactsCreateAPIView, ContactsListAPIView, ContactsRetrieveAPIView, ContactsUpdateAPIView, \
-    ContactsDestroyAPIView, TradeLinkCreateAPIView, TradeLinkListAPIView, TradeLinkRetrieveAPIView, \
-    TradeLinkUpdateAPIView, TradeLinkDestroyAPIView
+from .views import (ProductsCreateAPIView, ProductsListAPIView, ProductsRetrieveAPIView, ProductsUpdateAPIView,
+                    ProductsDestroyAPIView, ContactsCreateAPIView, ContactsListAPIView, ContactsRetrieveAPIView,
+                    ContactsUpdateAPIView, ContactsDestroyAPIView, TradeLinkCreateAPIView, TradeLinkListAPIView,
+                    TradeLinkRetrieveAPIView, TradeLinkUpdateAPIView, TradeLinkDestroyAPIView)
 
 app_name = ShopConfig.name
 
