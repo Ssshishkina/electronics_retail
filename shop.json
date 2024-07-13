@@ -1,0 +1,879 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2024-07-13T19:09:58.008Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "zavod@mail.ru",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2024-07-13T19:11:00.828Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "magaz@mail.ru",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2024-07-13T19:13:01.558Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "ip@mail.ru",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2024-07-13T19:15:52.235Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "смартфон",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2024-07-13T19:16:23.111Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Samsung - FACTORY",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2024-07-13T19:17:14.229Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "телевизор",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2024-07-13T19:19:07.201Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "zeon - RETAIL_NETWORK",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2024-07-13T19:34:51.642Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "клавиатура",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2024-07-13T19:35:46.156Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "ИП Иванов - INDIVIDUAL_ENTREPRENEUR",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2024-07-13T19:36:35.293Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "планшет",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2024-07-13T19:36:47.951Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "ИП Иванов - INDIVIDUAL_ENTREPRENEUR",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2024-07-13T19:38:19.109Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "аксессуары",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2024-07-13T19:38:37.278Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "zeon - RETAIL_NETWORK",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2024-07-13T19:54:09.359Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "zeon - RETAIL_NETWORK",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2024-07-13T19:54:26.240Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "zeon - RETAIL_NETWORK",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2024-07-13T19:54:35.112Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "ИП Иванов - INDIVIDUAL_ENTREPRENEUR",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2024-07-13T19:55:00.551Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "ИП Иванов - INDIVIDUAL_ENTREPRENEUR",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2024-07-13T19:55:14.672Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "zeon - RETAIL_NETWORK",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2024-07-13T19:55:21.201Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Samsung - FACTORY",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0434\\u043e\\u043b\\u0436\\u0435\\u043d\\u043d\\u043e\\u0441\\u0442\\u044c \\u043f\\u0435\\u0440\\u0435\\u0434 \\u043f\\u043e\\u0441\\u0442\\u0430\\u0432\\u0449\\u0438\\u043a\\u043e\\u043c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2024-07-13T20:00:33.252Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "2",
+      "object_repr": "ip@mail.ru",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2024-07-13T20:01:20.588Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "3",
+      "object_repr": "test@test.ru",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 4,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 4,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 4,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 4,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 5,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 5,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 5,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 5,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 6,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 6,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 6,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 6,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add товар",
+      "content_type": 7,
+      "codename": "add_products"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change товар",
+      "content_type": 7,
+      "codename": "change_products"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete товар",
+      "content_type": 7,
+      "codename": "delete_products"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view товар",
+      "content_type": 7,
+      "codename": "view_products"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add контакт",
+      "content_type": 8,
+      "codename": "add_contacts"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change контакт",
+      "content_type": 8,
+      "codename": "change_contacts"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete контакт",
+      "content_type": 8,
+      "codename": "delete_contacts"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view контакт",
+      "content_type": 8,
+      "codename": "view_contacts"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add звено сети",
+      "content_type": 9,
+      "codename": "add_tradelink"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change звено сети",
+      "content_type": 9,
+      "codename": "change_tradelink"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete звено сети",
+      "content_type": 9,
+      "codename": "delete_tradelink"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view звено сети",
+      "content_type": 9,
+      "codename": "view_tradelink"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "users",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "shop",
+      "model": "products"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "shop",
+      "model": "contacts"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "shop",
+      "model": "tradelink"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "0cnkqyc3wdp69vnf4nsi5u7skvqp0c25",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hCgBAaX7j0DGWZAqgaS0q6Md9cmXej2v_f-S0Tc1hq3kZc4szgLLU6_W0J65LYDvmO7dUm9rcuc5K7Igw557Zyfl8P9O6g46rcO4JmT995wJo0TWKVTKCqBm5xLYAgdMhgNFAADhzIpwILWWUvOs3h_AOPON-w:1sScSn:ChGRrSgczPslJ0keee921qNbpRuMALR1g8pnUG8iGYk",
+      "expire_date": "2024-07-27T13:06:57.533Z"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$wUcdvgzwJvWAUyGUNwbIh5$4SbT2tF3OXXwf+/AnDec5+aAQNurNZgUB+PZFRJY71s=",
+      "last_login": "2024-07-13T13:06:57.531Z",
+      "is_superuser": true,
+      "first_name": "Admin",
+      "last_name": "SkyPro",
+      "is_staff": true,
+      "date_joined": "2024-07-13T13:06:09.655Z",
+      "email": "admin@sky.pro",
+      "phone": null,
+      "city": null,
+      "is_active": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "password": "12345",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Иван",
+      "last_name": "Иванов",
+      "is_staff": true,
+      "date_joined": "2024-07-13T19:59:37Z",
+      "email": "ip@mail.ru",
+      "phone": "89125986989",
+      "city": "Тбилиси",
+      "is_active": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+      "password": "5959",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Светлана",
+      "last_name": "Иванова",
+      "is_staff": true,
+      "date_joined": "2024-07-13T20:00:38Z",
+      "email": "test@test.ru",
+      "phone": "89526987569",
+      "city": "ува",
+      "is_active": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "shop.products",
+    "pk": 1,
+    "fields": {
+      "name": "смартфон",
+      "product_model": "15 pro",
+      "date_of_release": "2024-07-13"
+    }
+  },
+  {
+    "model": "shop.products",
+    "pk": 2,
+    "fields": {
+      "name": "телевизор",
+      "product_model": "123",
+      "date_of_release": "2024-07-13"
+    }
+  },
+  {
+    "model": "shop.products",
+    "pk": 3,
+    "fields": {
+      "name": "клавиатура",
+      "product_model": "85-01",
+      "date_of_release": "2024-07-13"
+    }
+  },
+  {
+    "model": "shop.products",
+    "pk": 4,
+    "fields": {
+      "name": "планшет",
+      "product_model": "новая",
+      "date_of_release": "2024-07-13"
+    }
+  },
+  {
+    "model": "shop.products",
+    "pk": 5,
+    "fields": {
+      "name": "аксессуары",
+      "product_model": "для телефона",
+      "date_of_release": "2024-07-13"
+    }
+  },
+  {
+    "model": "shop.contacts",
+    "pk": 1,
+    "fields": {
+      "email": "zavod@mail.ru",
+      "country": "РФ",
+      "city": "Ижевск",
+      "street": "Советская",
+      "house": "1"
+    }
+  },
+  {
+    "model": "shop.contacts",
+    "pk": 2,
+    "fields": {
+      "email": "magaz@mail.ru",
+      "country": "Италия",
+      "city": "Сорренто",
+      "street": "Солнечная",
+      "house": "2"
+    }
+  },
+  {
+    "model": "shop.contacts",
+    "pk": 3,
+    "fields": {
+      "email": "ip@mail.ru",
+      "country": "Грузия",
+      "city": "Тбилиси",
+      "street": "Церителли",
+      "house": "3"
+    }
+  },
+  {
+    "model": "shop.tradelink",
+    "pk": 1,
+    "fields": {
+      "name": "Samsung",
+      "link_network": "FACTORY",
+      "product": 1,
+      "supplier": null,
+      "contact": 1,
+      "dept": "0.00",
+      "time": "2024-07-13T19:16:23.107Z"
+    }
+  },
+  {
+    "model": "shop.tradelink",
+    "pk": 2,
+    "fields": {
+      "name": "zeon",
+      "link_network": "RETAIL_NETWORK",
+      "product": 2,
+      "supplier": 1,
+      "contact": 2,
+      "dept": "0.00",
+      "time": "2024-07-13T19:19:07.200Z"
+    }
+  },
+  {
+    "model": "shop.tradelink",
+    "pk": 3,
+    "fields": {
+      "name": "ИП Иванов",
+      "link_network": "INDIVIDUAL_ENTREPRENEUR",
+      "product": 3,
+      "supplier": 2,
+      "contact": 3,
+      "dept": "1095.50",
+      "time": "2024-07-13T19:35:46.154Z"
+    }
+  },
+  {
+    "model": "shop.tradelink",
+    "pk": 4,
+    "fields": {
+      "name": "ИП Иванов",
+      "link_network": "INDIVIDUAL_ENTREPRENEUR",
+      "product": 4,
+      "supplier": 1,
+      "contact": 3,
+      "dept": "0.00",
+      "time": "2024-07-13T19:36:47.949Z"
+    }
+  },
+  {
+    "model": "shop.tradelink",
+    "pk": 5,
+    "fields": {
+      "name": "zeon",
+      "link_network": "RETAIL_NETWORK",
+      "product": 5,
+      "supplier": 3,
+      "contact": 2,
+      "dept": "10000.00",
+      "time": "2024-07-13T19:38:37.277Z"
+    }
+  }
+]
